@@ -1,0 +1,26 @@
+.bloc_section{
+	display: block;
+	width: 100%;
+	height: 500px;
+	text-align: center;
+	padding-top: 50px;
+}
+.titreSection{
+	display: block;
+	font-size: 25px;
+	color:#0D727F;
+	margin-bottom: 30px;
+}
+p{
+	width: 40%;
+	display: block;
+	margin:0 auto;
+	text-align: center;
+}
+.alert{
+	position:fixed;
+	top:0;
+	left: 0;
+	right:0;
+	z-index: 1060;
+}

@@ -1,0 +1,24 @@
+body{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.texteAccueil{
+	width: 50%;
+	min-height: 100px;
+	text-align: center;
+	display: block;
+	padding: 30px;
+	margin:0 auto;
+}
+.photoAccueil{
+	width: 60%;
+	max-height: 60%;
+	margin: 0 auto;
+	padding:20px 0 20px 0;
+	text-align: center;
+}
+.presentationPhoto{
+    width: 70%;
+    text-align: center;
+}
